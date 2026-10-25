@@ -37,3 +37,6 @@ For example, enter `https://www.google.com`, generate the QR code, and scan it w
 
 This project was developed to practise frontend development concepts, including HTML, CSS, JavaScript, user# QR-Code-generator
 QR Code generator appilcation
+
+<img width="364" height="400" alt="QR generate" src="https://github.com/user-attachments/assets/33c9b721-97e1-4e28-b571-7c8f4f151af7" />
+
